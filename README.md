@@ -12,7 +12,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Marking Making Bot**
+- 🔭 I’m currently working on **Market Making Bot**
 
 - 🌱 I'm in the process of **mastering improvements for a market-making bot, optimizing its performance and strategies.**
 
