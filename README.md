@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Data Science Master's Student | AI/ML Enthusiast | Data Engineer
+  Data Science Master's Student | AI/ML Developer | Data Engineer
 </h3>
 
 <p align="center">
