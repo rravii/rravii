@@ -1,28 +1,38 @@
 ![Banner GitHub](https://github.com/rravii/rravii/blob/main/banner.png)
 
-<h1 align="center" >Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Ravi Pandit</h1>
-<h3 align="center">A versatile and passionate developer from Nepal</h3>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Ravi Pandit
+</h1>
+
+<h3 align="center">
+  Data Science Master's Student | AI/ML Enthusiast | Data Engineer
+</h3>
+
+<p align="center">
+  🇳🇵 From Nepal | 📍 Based in Berlin, Germany 🇩🇪
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/ravi--rv/" target="blank">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with Ravi on LinkedIn" />
-  </a> 
+<p align="left">
+  <a href="https://www.linkedin.com/in/ravi--rv/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
-- 🔭 I’m currently working on **Market Making Bot**
+- 🎓 I'm currently pursuing my **Master's in Data Science at Berliner Hochschule für Technik (BHT), Berlin.**
 
-- 🌱 I'm in the process of **mastering improvements for a market-making bot, optimizing its performance and strategies.**
+- 🤖 I'm passionate about **Artificial Intelligence, Machine Learning, Generative AI, and Data Engineering.**
 
-- 📝 Find my project articles on [https://de-project-workflow-aws.blogspot.com/](https://de-project-workflow-aws.blogspot.com/)
-
-- 💬 Ask me about **anything. I will try my best to help you.**
-
-- 📫 How to reach me **panditravi217@gmail.com**
+- 🔬 I'm currently exploring **Deep Learning, Large Language Models (LLMs), Neural Networks, and AI research.**
   
-- ⚡ Fun fact **The key to great success lies in the liberty to fail.**
+- 📝 Find my Data Engineering project articles at [My Blog](https://de-project-workflow-aws.blogspot.com/).
+
+- 💬 Ask me about **Python, Machine Learning, Data Engineering, AWS, or AI projects.**
+
+- 📫 Reach me at **panditravi217@gmail.com**
+
+- ⚡ Fun fact: **The key to great success lies in the liberty to fail.**
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
